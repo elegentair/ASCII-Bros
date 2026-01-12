@@ -3,14 +3,14 @@ An ASCII text game (platformer) in progress.
 
 *Features Done*
 --------------------------------------------------
-Basic Controls (besides proper jumping)\n
-Basic Procedural Terrain Generation\n
-Scrolling Between Scenes\n
-Basic Placeholder Powerups\n
+Basic Controls (besides proper jumping)  
+Basic Procedural Terrain Generation  
+Scrolling Between Scenes  
+Basic Placeholder Powerups  
 
 *Features to Come*
 -------------------------------------------------
-Proper Momentum Based Jumping\n
-Advanced Terrain Generation with multiple "Worlds"\n
-NPC Charecters and Enemies\n
-Powerup use\n
+Proper Momentum Based Jumping  
+Advanced Terrain Generation with multiple "Worlds"  
+NPC Charecters and Enemies  
+Powerup use  
